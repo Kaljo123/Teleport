@@ -20,7 +20,7 @@ Platform assembly: E:\Unity\Teleport\Builds\Spear1_Data\Managed\UnityEngine.Anal
 Loading E:\Unity\Teleport\Builds\Spear1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
 Platform assembly: E:\Unity\Teleport\Builds\Spear1_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading E:\Unity\Teleport\Builds\Spear1_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.159 seconds
+- Completed reload, in  0.383 seconds
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
@@ -29,7 +29,7 @@ Platform assembly: E:\Unity\Teleport\Builds\Spear1_Data\Managed\System.Core.dll 
 Platform assembly: E:\Unity\Teleport\Builds\Spear1_Data\Managed\System.dll (this message is harmless)
 Shader 'Nature/Terrain/Standard': fallback shader 'Nature/Terrain/Diffuse' not found
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2748 -> priority: 1 
+  Thread -> id: 1f58 -> priority: 1 
 OnJoinedLobby
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
