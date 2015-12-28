@@ -49,7 +49,7 @@ public class NetoworkManager : MonoBehaviour {
 	
 	void SpawnMyPlayer() {
 
-		GameObject myPlayer = (GameObject)PhotonNetwork.Instantiate ("Warrior", new Vector3(0,5,0), Quaternion.identity, 0);
+		GameObject myPlayer = (GameObject)PhotonNetwork.Instantiate ("SpearmanPrefab", new Vector3(0,5,0), Quaternion.identity, 0);
 
 		myPlayer.transform.FindChild ("MainCamera").gameObject.SetActive (true);
 		((MonoBehaviour)myPlayer.GetComponent<RigidbodyFirstPersonController> ()).enabled = true;
